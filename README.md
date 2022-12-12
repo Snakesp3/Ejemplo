@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Johana
 =======
 # actualizado por leandro
@@ -26,3 +27,6 @@ julio: actualizado,, como jode frutillin
 -Seba
 >>>>>>> Rama/Seba
 >>>>>>> ed54cd326fcbf7e5049c08b5d33d825c32c9edb3
+=======
+Actualizado por Johana
+>>>>>>> Rama/Joha
