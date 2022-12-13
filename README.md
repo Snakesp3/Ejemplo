@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Johana
 =======
 # actualizado por leandro
@@ -28,8 +29,14 @@ julio: actualizado,, como jode frutillin
 >>>>>>> ed54cd326fcbf7e5049c08b5d33d825c32c9edb3
 <<<<<<< HEAD
 =======
+Actualizado por Johana
+>>>>>>> Rama/Joha
+=======
+<<<<<<< HEAD
+=======
 
 Nico
 
 >>>>>>> RAMA/Nico
 Pablo el Yisus de la gente
+>>>>>>> ea76c0c1508c664e3350d5e65b9bf50947414ab3
