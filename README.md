@@ -1,6 +1,12 @@
 # Ejemplo
 <<<<<<< HEAD
 <<<<<<< HEAD
+julio : q seriamos sin frutillin
+=======
+# actualizado por leandro
+>>>>>>> ea5a9f7b51663fe64371cd60361270fd29091fd2
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Johana
@@ -40,3 +46,4 @@ Nico
 >>>>>>> RAMA/Nico
 Pablo el Yisus de la gente
 >>>>>>> ea76c0c1508c664e3350d5e65b9bf50947414ab3
+>>>>>>> cf3eb66634c998752e2f4c6384d36402295a5e6f
