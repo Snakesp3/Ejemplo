@@ -2,17 +2,17 @@
 package EntidadesA;
 
 
-public class Perro {
+public class PerroPablito {
     
     private String nombre;
     private int edad;
     private String actividad;
     private String raza;
 
-    public Perro() {
+    public PerroPablito() {
     }
 
-    public Perro(String nombre, int edad, String actividad, String raza) {
+    public PerroPablito(String nombre, int edad, String actividad, String raza) {
         this.nombre = nombre;
         this.edad = edad;
         this.actividad = actividad;
